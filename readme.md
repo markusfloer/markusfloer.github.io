@@ -6,3 +6,5 @@ This tutorial mainly focuses on Git and using Github as its remote
 This repository is built step by step in the tutorial.
 
 This line represents an example of changing the repo directly in the origin (in Github, not on local repo on computer)
+
+
